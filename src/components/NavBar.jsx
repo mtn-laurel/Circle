@@ -10,7 +10,7 @@ function NavBar() {
       {/* Left - Logo + Search */}
       {/* Left - Logo + Search + Friends */}
     <div className="flex items-center gap-6">
-      <h1 className="text-2xl font-bold text-blue-600">Facebook</h1>
+      <h1 className="text-2xl font-bold text-blue-600">The Circle</h1>
       <div className="flex items-center bg-gray-100 rounded-full px-4 py-2 gap-4">
         <Search className="text-gray-400" />
         <input
