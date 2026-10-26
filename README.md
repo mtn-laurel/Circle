@@ -8,7 +8,7 @@
 
 #What Our Application Does
 
-Facebook and other social media platforms caan be confusing to older generations, and we created a tool that is a modification of the site that can help consolodate information and uses that facebook provides. It makes it easier to understand as well as use for the average user.
+Social media applications can be difficult to navigate for older adults. By creating a social media application designed to accomodate older adults, we hope to increase engagement that provides meaningful social interactions and can improve users' quality of life.
 
 
 #Running the React Application
