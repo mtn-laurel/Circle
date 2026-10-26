@@ -8,7 +8,7 @@
 
 #What Our Application Does
 
-Social media applications can be difficult to navigate for older adults. By creating a social media application designed to accomodate older adults, we hope to increase engagement that provides meaningful social interactions and can improve users' quality of life.
+Social media applications can be difficult to navigate for older adults. By creating a social media application designed to accomodate older adults, we hope to increase engagement that provides meaningful social interactions and can improve users' quality of life. 
 
 
 #Running the React Application
